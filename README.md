@@ -31,5 +31,4 @@ O script `simulador.py` foi desenvolvido para calcular esse equilíbrio dinâmic
 ### 📊 Resultado da Simulação
 Abaixo, o gráfico gerado que apresenta a progressão da velocidade terminal em função do aumento da massa (de 1kg a 100kg), mantendo a área de seção transversal constante:
 
-![Gráfico de Velocidade Terminal](<img width="851" height="549" alt="image" src="https://github.com/user-attachments/assets/d9ab7721-a2c4-4151-b033-3bac4ba6cc34" />
-)
+![Gráfico de Velocidade Terminal](<img width="851" height="549" alt="image" src="https://github.com/user-attachments/assets/d9ab7721-a2c4-4151-b033-3bac4ba6cc34" />)
