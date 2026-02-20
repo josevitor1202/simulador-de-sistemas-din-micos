@@ -19,6 +19,8 @@ Atualmente, o projeto conta com os seguintes módulos:
 ## 📈 Objetivo do Repositório
 Este é um projeto contínuo focado em **Engenharia de Performance**. Cada novo script busca otimizar processos de análise que, anteriormente, seriam feitos de forma manual ou puramente analítica.
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🚀 Experimento 01: Modelagem de Velocidade Terminal
 
 Nesta primeira simulação, explora-se o conceito de **Velocidade Terminal**, que ocorre quando a força de arrasto ($F_d$) de um fluido se iguala à força peso ($P$) de um objeto em queda, resultando em uma aceleração nula e velocidade constante.
