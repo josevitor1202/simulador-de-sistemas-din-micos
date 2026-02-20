@@ -18,3 +18,17 @@ Atualmente, o projeto conta com os seguintes módulos:
 
 ## 📈 Objetivo do Repositório
 Este é um projeto contínuo focado em **Engenharia de Performance**. Cada novo script busca otimizar processos de análise que, anteriormente, seriam feitos de forma manual ou puramente analítica.
+
+## 🚀 Experimento 01: Modelagem de Velocidade Terminal
+
+Nesta primeira simulação, explora-se o conceito de **Velocidade Terminal**, que ocorre quando a força de arrasto ($F_d$) de um fluido se iguala à força peso ($P$) de um objeto em queda, resultando em uma aceleração nula e velocidade constante.
+
+A modelagem utiliza a equação:
+$$v_t = \sqrt{\frac{2mg}{\rho AC_d}}$$
+
+O script `simulador.py` foi desenvolvido para calcular esse equilíbrio dinâmico variando a massa do objeto, permitindo visualizar como a inércia do corpo influencia o limite de velocidade em um meio viscoso (neste caso, o ar).
+
+### 📊 Resultado da Simulação
+Abaixo, o gráfico gerado que apresenta a progressão da velocidade terminal em função do aumento da massa (de 1kg a 100kg), mantendo a área de seção transversal constante:
+
+![Gráfico de Velocidade Terminal](grafico_velocidade.png)
