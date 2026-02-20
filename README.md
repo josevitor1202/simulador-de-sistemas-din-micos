@@ -1,1 +1,1 @@
-# simulador-de-sistemas-din-micos
+# Projeto Simulador de Sistemas Dinâmicos
