@@ -10,7 +10,7 @@ A = 0.1       # Área da seção transversal (m^2)
 def calcular_velocidade_terminal(m):
     return np.sqrt((2 * m * g) / (rho * A * Cd))
 
-# Intervalo de massas: de 1kg até 100kg
+# Massas: 1kg até 100kg
 massas = np.linspace(1, 100, 50)
 velocidades = calcular_velocidade_terminal(massas)
 
