@@ -22,5 +22,3 @@ plt.xlabel('Massa (kg)', fontsize=12)
 plt.ylabel('Velocidade Terminal (m/s)', fontsize=12)
 plt.grid(True, linestyle='--', alpha=0.7)
 plt.legend()
-
-print("Simulação concluída. Gráfico gerado!")
